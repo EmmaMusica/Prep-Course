@@ -1,0 +1,8 @@
+# Prototype
+- Al trabajar con objetos en Javascript hay que conocer el método Prototype que existe en cada objeto de JS.
+El metodo prototype nos permite generar un modelo de objeto específico para que, desde allí, podamos crear objetos similares con las mismas propiedades y/o métodos.
+
+
+#_Constructors_
+- Al trabajar con Clases en Javascript la funcion _Constructors_ (o funcion constructora) es la encargada de generar el modela de objeto que vamos a instaciar. Similar al Prototype.
+

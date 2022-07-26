@@ -1,0 +1,7 @@
+# Arrays
+
+- Un array o Arreglo es un espacio en memoria para almacenar muchos datos de diferentes tipos a la vez. Y se lo hace de la siguiente forma:
+
+let Array = [ dato1, dato2, dato3 ];
+
+- Cada dato puede ser de todos los tipos de datos disponibles en Javascript.

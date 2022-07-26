@@ -1,0 +1,46 @@
+body {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Lato', sans-serif;
+    font-family: 'Roboto', sans-serif;
+    background-image: url(https://images5.alphacoders.com/462/thumb-1920-462280.jpg);
+    background-position: center center;
+}
+
+h1 {
+    color: rgb(0, 150, 237);
+}
+h3, h4, span, a {
+    color: white;
+}
+img {
+    width: 400px;
+}
+.divClass {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+.divClass a {
+    margin-bottom: 1rem;
+}
+#thirdDiv {
+    
+    height: 600px;
+    width: 500px;
+    background-color: rgba(245, 245, 245, 0.746);
+    padding: 50px;
+    border: 1px solid gray;
+}
+#thirdDiv ul {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    list-style: none;
+    padding: 0;
+}
+#spanId {
+    font-size: 18px;
+    margin: 50px;
+}

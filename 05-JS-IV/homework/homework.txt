@@ -1,0 +1,36 @@
+# Objetos
+- Un objeto en javascript es un tipo de informacion que se almacena entre llaves y define conjuntos de pares llave-valor de la siguiente forma:
+
+let obj = {
+    nombre: 'Juan',
+    apellido: 'Perez'
+}
+
+
+# Propiedades
+- A cada llave de cada par llave-valor se la denomina también una propiedad del objeto propiamente dicho. Es decir, que 'nombre' es una propiedad del objeto obj recientemente creado.
+
+
+# Métodos
+- Cada propiedad, al igual que un array, puede contener cualquier tipo de informacion, incluso una funcion. Cuando una funcion se almacena en una propiedad de un objeto determinado, se dice que esa propiedad es un 'método' de ese objeto.
+
+
+# Bucle "for ... in"
+- Este tipo de bucle en particular es utilizado para iterar específicamente sobre un objeto siguiendo la siguiente sintaxis:
+
+for ( prop in obj ) {
+    console.log(obj[prop])
+}
+
+- Donde prop es cada propiedad del objeto 'obj'. En cada iteración, en este caso, estamos mostrando la información en cada propiedad del objeto.
+
+
+# Notación de Puntos vs. Notación de corchetes
+- En Javascript podemos acceder a cada propiedad o método de un objeto mediante 2 maneras:
+
+1. Notación de Puntos: 
+    console.log(obj.nombre) // --> 'Juan'
+
+2. Notación de Corchetes:
+    console.log(obj['nombre']) // --> 'Juan'
+

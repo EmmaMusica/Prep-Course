@@ -1,0 +1,17 @@
+# Variables
+- Una variable es un espacio en memoria reservado para almacenar cualquier tipo de dato o informacion en Javascript.
+
+# Strings
+- Los Strings son un tipo de dato que representa a un texto o escritura. También son denominados cadena de texto.
+
+# Funciones
+- Las funciones son un fragmento de código reutilizable. Podemos hacer que sea dínamico, es decir que cambie valores según lo necesitemos, y también que devuelva algun valor en específico con la key word "return".
+
+# Declaraciones
+- Las declaraciones o sentencias 'if' se utilizan para analizar un suceso y tomar una decision en base a ello. Por ejemplo:
+if(a > b) { sucede algo } else { sucede otra cosa }.
+Eso indica que si "a" es mayor que "b" entonces hacemos algo, en caso contrario haremos otra cosa.
+
+# Valores booleanos
+- Los booleans son un tipo de dato que solo especifica un valor de Verdad, es decir, si algo es verdadero o falso ( "true" - "false" ).
+ 

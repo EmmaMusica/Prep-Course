@@ -1,0 +1,3 @@
+# Funciones Callback
+
+- Las funciones Callback son funciones que pueden ser pasadas a otra funcion principal, mediante la cual, esta ultima realiza alguna operación requerida.

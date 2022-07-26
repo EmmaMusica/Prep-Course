@@ -1,0 +1,8 @@
+# Ciclo "for"
+- El ciclo for es un elemento que utilizamos para generar un bucle iterador. De esta manera se logra trabajar mejor con todos los elementos de un arreglo, objeto u string. El ciclo for genera un fragmento de código que se repite de una manera determinada en forma de bucle.
+
+# Operadores Lógicos '&&', '||' y '!'
+- Los operadores lógicos son útiles para conocer el valor de verdad de una declaracion.
+- El operador "&&" ('and') exige que dos condiciones se cumplan para dar un resultado verdadero, de lo contrario será siempre falso.
+- El operador "||" ('or') espera que al menos una consicion se cumpla para dar un resultado verdadero, de lo contrario resulta falso.
+- El operador "!" ('not') niega una declaracion para que podamos trabajar con las sentencias a nuestra convenciencia.
